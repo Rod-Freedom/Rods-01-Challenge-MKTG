@@ -4,6 +4,7 @@ Marketing agency site optimized for search engines.
 ## Description
 
 This challenge is to test if I can pull, commit and push an existing code from a marketing agency website – along with the site assets, such as images – to a GitHub repository, so that I finally demonstrate that I can deploy a website.
+It was also a first taste of how to clean-up a code, to facilitate further improvements.
 
 ## Installation
 
